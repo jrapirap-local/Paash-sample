@@ -1,0 +1,9 @@
+@import url("assets/css/style.css"); /* Using a url */
+@import url("assets/vendors/mdi/css/materialdesignicons.min.css"); /* Using a url */
+@import url("assets/vendors/css/vendor.bundle.base.css"); /* Using a url */
+@import url("assets/css/sweetalert2.min.css"); /* Using a url */
+@import url("assets/css/jquery.dataTables.css"); /* Using a url */
+@import url("assets/css/responsive.dataTables.min.css"); /* Using a url */
+@import url("assets/css/select.dataTables.min.css"); /* Using a url */
+@import url("assets/css/MultiSelect.css"); /* Using a url */
+@import url("assets/css/quill.css"); /* Using a url */
